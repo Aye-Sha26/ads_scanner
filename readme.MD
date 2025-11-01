@@ -1,4 +1,5 @@
-
+(don’t run on systems you don’t own, do not misuse)
+Use at your own risk. Author is not responsible for data loss or misuse.
 ADS SCANNER
 
 A Digital Forensics Utility for Detecting, Viewing, Deleting, and Restoring Alternate Data Streams (ADS) on Windows
