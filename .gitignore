@@ -1,0 +1,26 @@
+# Ignore log files and ADS backups
+log/
+*.log
+
+# Ignore Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore build outputs
+build/
+dist/
+*.egg-info/
+
+# Ignore temporary editor files
+.vscode/
+.idea/
+
+# Ignore local environments
+venv/
+.env/
+
+# Ignore temporary or backup files
+*.tmp
+*.bak
+
